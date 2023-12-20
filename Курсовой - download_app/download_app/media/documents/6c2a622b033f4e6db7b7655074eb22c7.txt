@@ -1,0 +1,2 @@
+ .\.venv\Scripts\activate - активация виртуального пространства
+python -m venv .venv - создание виртуалки
